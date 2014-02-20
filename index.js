@@ -3,10 +3,10 @@
  * Module dependencies.
  */
 
-var svg = require('svg');
-var min = require('min');
-var max = require('max');
-var bin = require('bin');
+var svg = require('matthewmueller-svg');
+var min = require('component-min');
+var max = require('component-max');
+var bin = require('component-bin');
 
 /**
  * Expose `Histogram`.

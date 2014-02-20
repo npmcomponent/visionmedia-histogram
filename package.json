@@ -1,0 +1,23 @@
+{
+  "name": "visionmedia-histogram",
+  "description": "JavaScript histogram component for arbitrary data",
+  "version": "0.1.1",
+  "keywords": [
+    "histo",
+    "histogram",
+    "stats",
+    "statistics",
+    "canvas",
+    "graph"
+  ],
+  "styles": [
+    "histogram.css"
+  ],
+  "dependencies": {
+    "component-bin": "git://github.com/npmcomponent/component-bin.git",
+    "component-min": "git://github.com/npmcomponent/component-min.git",
+    "component-max": "git://github.com/npmcomponent/component-max.git",
+    "matthewmueller-svg": "git://github.com/npmcomponent/matthewmueller-svg.git"
+  },
+  "license": "MIT"
+}
